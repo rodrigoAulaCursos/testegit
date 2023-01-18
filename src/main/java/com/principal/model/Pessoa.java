@@ -8,7 +8,7 @@ public class Pessoa {
 	private String email;
 	private String cpf;
 	private Date dtNascimento;
-	//teste
+	
 	public String getNome() {
 		return nome;
 	}
